@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+memo1:
+  id: 1
+  title: テスト用タイトル1
+  body: これはテストです。
+  category: 1
+  author: 1
+  posted_at: 2017-10-16
